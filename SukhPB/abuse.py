@@ -1,1 +1,7 @@
-abuse=[ hlo
+abuse = [
+    "MADARCHOD",
+]
+
+galia == [
+    "MADARCHOD",
+]
