@@ -12,9 +12,9 @@ async def start_bot(Client):
         print("Settings All Commands")
         await Client.set_bot_commands(
             [
-                BotCommand("start", "Start Bot By Anyone"),
-                BotCommand("ping", "Check that bot is alive or dead"),
-                BotCommand("banall", "banall the member in Group"),
+                BotCommand("start", "sᴛᴀʀᴛ ʙᴏᴛ ʙʏ ᴀɴʏᴏɴᴇ"),
+                BotCommand("ping", "ᴄʜᴇᴄᴋ ᴛʜᴀᴛ ʙᴏᴛ ɪs ᴀʟɪᴠᴇ ᴏʀ ᴅᴇᴀᴅ"),
+                BotCommand("banall", "ʙᴀɴᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀ ɪɴ ɢʀᴏᴜᴘ"),
                 BotCommand("birthday", "spam the chat with birthday message"),
                 BotCommand("restart", "Restart The Bot"),
                 BotCommand("eval", "Run Python Code"),
