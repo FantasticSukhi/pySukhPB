@@ -31,6 +31,12 @@ async def start_bot(Client):
                 BotCommand("dspam", "sᴛᴀʀᴛ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ᴅᴇʟᴀʏ sᴘᴀᴍ"),
                 BotCommand("pspam", "ᴘᴏʀɴsᴘᴀᴍ ᴡɪᴛʜ ʀᴀɪᴅ"),
                 BotCommand("hang", "sᴛᴀʀᴛ ʜᴀɴɢ ᴄᴏᴍᴍᴀɴᴅ ᴜsᴇᴅ ᴛᴏ ʜᴀɴɢ ᴛʜᴇ ᴄʜᴀᴛ"),
+                BotCommand("uspam", "sᴛᴀʀᴛ ᴛʜᴇ sᴘᴀᴍ ᴛɪʟʟ ᴜsᴇᴅ ᴄᴏᴍᴍᴀɴᴅ sᴛᴏᴏ"),
+                BotCommand("uraid", "sᴛᴀʀᴛ ᴛʜᴇ ᴜɴʟɪᴍɪᴛᴇᴅ ʀᴀɪᴅ"),
+                BotCommand("abuse", "sᴛᴀʀᴛ ᴀʙᴜsɪɴɢ ɴᴏɴ sᴛᴏᴘ"),
+                BotCommand("echo", "ᴇᴄʜᴏ ᴛʜᴇ ʀᴇᴘʟʏ ᴍsɢ"),
+                BotCommand("", ""),
+                BotCommand("", ""),
             ]
         )
     except:
