@@ -20,7 +20,17 @@ async def start_bot(Client):
                 BotCommand("eval", "ʀᴜɴ ᴘʏᴛʜᴏɴ ᴄᴏᴅᴇ"),
                 BotCommand("exec", "ɪɴsᴛᴀʟʟ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs"),
                 BotCommand("gm", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ᴍᴇssᴀɢᴇ"),
-                BotCommand("ga", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ ᴍᴇssᴀɢᴇs")
+                BotCommand("ga", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ ᴍᴇssᴀɢᴇs"),
+                BotCommand("", ""),
+                BotCommand("", ""),
+                BotCommand("", ""),
+                BotCommand("", ""),
+                BotCommand("", ""),
+                BotCommand("", ""),
+                BotCommand("", ""),
+                BotCommand("", ""),
+                BotCommand("", ""),
+                BotCommand("", ""),
             ]
         )
     except:
