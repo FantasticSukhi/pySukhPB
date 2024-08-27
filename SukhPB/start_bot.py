@@ -22,11 +22,11 @@ async def start_bot(Client):
                 BotCommand("gm", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ᴍᴇssᴀɢᴇ"),
                 BotCommand("ga", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ ᴍᴇssᴀɢᴇs"),
                 BotCommand("gn", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ɢᴏᴏᴅ ɴɪɢʜᴛ ᴍᴇssᴀɢᴇs"),
-                BotCommand("raid", "Sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ʀᴀɪᴅ"),
-                BotCommand("rraid", "Sᴛᴀʀᴛ ᴛʜᴇ ʀᴀɪᴅ ɪɴ ᴄʜᴀᴛ ʙʏ ʀᴇᴘʟʏɪɴɢ ᴛᴏ ᴘᴇʀsᴏɴ"),
-                BotCommand("draid", "Sᴛᴏᴘ ᴛʜᴇ ʀᴀɪᴅ ɪɴ ᴄʜᴀᴛ"),
+                BotCommand("raid", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ʀᴀɪᴅ"),
+                BotCommand("rraid", "sᴛᴀʀᴛ ᴛʜᴇ ʀᴀɪᴅ ɪɴ ᴄʜᴀᴛ ʙʏ ʀᴇᴘʟʏɪɴɢ ᴛᴏ ᴘᴇʀsᴏɴ"),
+                BotCommand("draid", "sᴛᴏᴘ ᴛʜᴇ ʀᴀɪᴅ ɪɴ ᴄʜᴀᴛ"),
                 BotCommand("listraid", "ᴄʜᴇᴄᴋ ᴛʜᴇ ʟɪsᴛ ᴏɴ sᴛᴀʀᴛᴇᴅ ʀᴀɪᴅ ᴏɴ ɪᴛ"),
-                BotCommand("shayri", "Sᴘᴀᴍ ɪɴ ᴄʜᴀᴛ ᴡɪᴛʜ sʜᴀʏʀɪ"),
+                BotCommand("shayri", "sᴘᴀᴍ ɪɴ ᴄʜᴀᴛ ᴡɪᴛʜ sʜᴀʏʀɪ"),
                 BotCommand("stop", "ᴛᴏ sᴛᴏᴘ ᴜɴʟɪᴍɪᴛᴇᴅ sᴘᴀᴍ,ʀᴀɪᴅ,ᴀʙᴜsᴇ"),
                 BotCommand("dspam", "sᴛᴀʀᴛ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ᴅᴇʟᴀʏ sᴘᴀᴍ"),
                 BotCommand("pspam", "ᴘᴏʀɴsᴘᴀᴍ ᴡɪᴛʜ ʀᴀɪᴅ"),
@@ -35,8 +35,8 @@ async def start_bot(Client):
                 BotCommand("uraid", "sᴛᴀʀᴛ ᴛʜᴇ ᴜɴʟɪᴍɪᴛᴇᴅ ʀᴀɪᴅ"),
                 BotCommand("abuse", "sᴛᴀʀᴛ ᴀʙᴜsɪɴɢ ɴᴏɴ sᴛᴏᴘ"),
                 BotCommand("echo", "ᴇᴄʜᴏ ᴛʜᴇ ʀᴇᴘʟʏ ᴍsɢ"),
-                BotCommand("", ""),
-                BotCommand("", ""),
+                BotCommand("help", "ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ ᴄʜᴇᴄᴋ"),
+                BotCommand("ll_BAD_MUNDA_ll", "ʙᴏᴛ ᴏᴡɴᴇʀ"),
             ]
         )
     except:
