@@ -18,9 +18,9 @@ async def start_bot(Client):
                 BotCommand("birthday", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ʙɪʀᴛʜᴅᴀʏ ᴍᴇssᴀɢᴇ"),
                 BotCommand("restart", "ʀᴇsᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ"),
                 BotCommand("eval", "ʀᴜɴ ᴘʏᴛʜᴏɴ ᴄᴏᴅᴇ"),
-                BotCommand("exec", "Install The Requirements"),
-                BotCommand("gm", "Spam The Chat with good morning message"),
-                BotCommand("ga", "Spam The Chat With Good Afternoon Messages")
+                BotCommand("exec", "ɪɴsᴛᴀʟʟ ᴛʜᴇ ʀᴇǫᴜɪʀᴇᴍᴇɴᴛs"),
+                BotCommand("gm", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ɢᴏᴏᴅ ᴍᴏʀɴɪɴɢ ᴍᴇssᴀɢᴇ"),
+                BotCommand("ga", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ɢᴏᴏᴅ ᴀғᴛᴇʀɴᴏᴏɴ ᴍᴇssᴀɢᴇs")
             ]
         )
     except:
