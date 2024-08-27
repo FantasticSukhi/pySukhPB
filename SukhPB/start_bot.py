@@ -15,9 +15,9 @@ async def start_bot(Client):
                 BotCommand("start", "sᴛᴀʀᴛ ʙᴏᴛ ʙʏ ᴀɴʏᴏɴᴇ"),
                 BotCommand("ping", "ᴄʜᴇᴄᴋ ᴛʜᴀᴛ ʙᴏᴛ ɪs ᴀʟɪᴠᴇ ᴏʀ ᴅᴇᴀᴅ"),
                 BotCommand("banall", "ʙᴀɴᴀʟʟ ᴛʜᴇ ᴍᴇᴍʙᴇʀ ɪɴ ɢʀᴏᴜᴘ"),
-                BotCommand("birthday", "spam the chat with birthday message"),
-                BotCommand("restart", "Restart The Bot"),
-                BotCommand("eval", "Run Python Code"),
+                BotCommand("birthday", "sᴘᴀᴍ ᴛʜᴇ ᴄʜᴀᴛ ᴡɪᴛʜ ʙɪʀᴛʜᴅᴀʏ ᴍᴇssᴀɢᴇ"),
+                BotCommand("restart", "ʀᴇsᴛᴀʀᴛ ᴛʜᴇ ʙᴏᴛ"),
+                BotCommand("eval", "ʀᴜɴ ᴘʏᴛʜᴏɴ ᴄᴏᴅᴇ"),
                 BotCommand("exec", "Install The Requirements"),
                 BotCommand("gm", "Spam The Chat with good morning message"),
                 BotCommand("ga", "Spam The Chat With Good Afternoon Messages")
