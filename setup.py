@@ -12,13 +12,13 @@ except Exception as error:
 
 setup(
     name="pySukhPB",
-    author="Badhacker98",
-    author_email="sukhwinderwarval50@gmail.com",
+    author="FantasticSukhi",
+    author_email="www.sukhkher125@gmail.com",
     version="0.6",
     description="This is a simple package which is used in Bot Spam",
     long_description = readme_contents,
     long_description_content_type="text/markdown",
-    url="https://github.com/badmunda98/pySukhPB",
+    url="https://github.com/FantasticSukhi/pySukhPB",
     packages=find_packages(),
     license="GNU General Public License v3.0",
     include_package_data=True,
