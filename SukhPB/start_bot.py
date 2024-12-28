@@ -36,7 +36,7 @@ async def start_bot(Client):
                 BotCommand("abuse", "☆ sᴛᴀʀᴛ ᴀʙᴜsɪɴɢ ɴᴏɴ sᴛᴏᴘ ☆"),
                 BotCommand("echo", "☆ ᴇᴄʜᴏ ᴛʜᴇ ʀᴇᴘʟʏ ᴍsɢ ☆"),
                 BotCommand("help", "☆ ᴀʟʟ ᴄᴏᴍᴍᴀɴᴅ ᴄʜᴇᴄᴋ ☆"),
-                BotCommand("ll_BAD_MUNDA_ll", "☆ ʙᴏᴛ ᴏᴡɴᴇʀ ☆")
+                BotCommand("censored_politicsss", "☆ ʙᴏᴛ ᴏᴡɴᴇʀ ☆")
             ]
         )
     except:
