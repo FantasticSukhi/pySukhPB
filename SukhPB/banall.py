@@ -3,7 +3,7 @@ async def start_banall(Badmunda, message):
     a = await Badmunda.get_chat_member(chat.id, 'me')
     if a.status != "administrator":
         return await Badmunda.send_message(chat.id, "Promote me to admin😭")
-    x = await Badmunda.send_message(chat.id, "Hey it's Pb Bot Spam")
+    x = await Badmunda.send_message(chat.id, "Hey it's MBV Bot Spam")
     done = 0
     failed = 0
     async for u in Badmunda.get_chat_members(chat.id):
