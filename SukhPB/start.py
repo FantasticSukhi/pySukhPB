@@ -5,10 +5,10 @@ async def start_cmd(Badmunda):
     START_OP = [
         [
             InlineKeyboardButton(
-                text="🌸 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🌸", url=f"https://t.me/ll_BAD_MUNDA_ll"
+                text="🌸 ᴅᴇᴠᴇʟᴏᴘᴇʀ 🌸", url=f"https://t.me/CENSORED_POLITICSSS"
             ),
             InlineKeyboardButton(
-                text="💥 sᴜᴘᴘᴏʀᴛ 💥", url=f"https://t.me/PBX_CHAT"
+                text="💥 sᴜᴘᴘᴏʀᴛ 💥", url=f"https://t.me/MBV_CHATS"
             ),
         ],
         [
@@ -19,10 +19,10 @@ async def start_cmd(Badmunda):
         ],
         [
             InlineKeyboardButton(
-                text="📂 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 📂", url=f"https://t.me/HEROKUBIN_01/289"
+                text="📂 sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ 📂", url=f"https://xhamster.com"
             ),
             InlineKeyboardButton(
-                text="✨ ᴜᴘᴅᴀᴛᴇ ✨", url=f"https://t.me/HEROKUBIN_01"
+                text="✨ ᴜᴘᴅᴀᴛᴇ ✨", url=f"https://t.me/MBV_NETWORK"
             ),
         ],
     ]
